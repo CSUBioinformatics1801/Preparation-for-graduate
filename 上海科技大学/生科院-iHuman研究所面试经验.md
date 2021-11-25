@@ -9,6 +9,12 @@
 # 优惠政策
 优秀营员可以推免预录取，统招免复试
 
+# 培养
+硕士入学，第三年转Phd，转博率50%，转PhD后共计5年
+
+# 补助
+3300/月，每年加200-400
+
 # 时间安排
 [click_here](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/blob/main/上海科技大学/2021年上科大生院夏令营活动开营仪式日程（0719批次）-0720.pdf)
 
