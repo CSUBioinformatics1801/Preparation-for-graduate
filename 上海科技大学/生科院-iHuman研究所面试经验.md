@@ -11,3 +11,6 @@
 
 # 时间安排
 [click_here](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/blob/main/上海科技大学/2021年上科大生院夏令营活动开营仪式日程（0719批次）-0720.pdf)
+
+# 联系人
+[张彦哲](https://www.linkedin.com/in/sean-peldom-zhang-803108200/)
