@@ -1,2 +1,20 @@
 # Preparation-for-graduate
-这是一个分享夏令营面试经验的repository，欢迎分享
+
+这是一个分享夏令营面试经验的repository，欢迎分享  
+
+
+点击下方**超链接**即可
+## 高校
+* [上海科技大学](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/tree/main/%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6)
+* [北京大学](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/tree/main/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6)
+* [浙江大学](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/tree/main/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6)
+* [清华大学](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/tree/main/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6)
+* [西湖大学](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/tree/main/%E8%A5%BF%E6%B9%96%E5%A4%A7%E5%AD%A6)
+## 研究所
+*[北京生命科学研究所]_待上传
+
+## 投稿
+*    投稿链接`seanpeldomzhang@qq.com`或留言至[issue](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/issues)
+*    投稿格式: **Markdown**优先，不熟悉的可以用doc(x),txt,rtf等文本与富文本文件格式
+*    建议内容：招生流程、面试经验、培养模式、你的联系方式
+*    联系我们：欢迎加入[QQ群](https://jq.qq.com/?_wv=1027&k=Y2XDaFYL)
