@@ -11,7 +11,8 @@
 * [清华大学](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/tree/main/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6)
 * [西湖大学](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/tree/main/%E8%A5%BF%E6%B9%96%E5%A4%A7%E5%AD%A6)
 ## 研究所
-*[北京生命科学研究所]_待上传
+* [北京生命科学研究所(NIBS)]_待上传
+* [北京科学与类脑研究中心(CIBR)]_待上传
 
 ## 投稿
 *    投稿链接`seanpeldomzhang@qq.com`或留言至[issue](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/issues)
