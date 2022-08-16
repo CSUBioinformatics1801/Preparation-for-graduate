@@ -11,7 +11,7 @@
 * [清华大学](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/tree/main/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6)
 * [西湖大学](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/tree/main/%E8%A5%BF%E6%B9%96%E5%A4%A7%E5%AD%A6)
 * [复旦大学](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/blob/main/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6/%E5%A4%8D%E6%97%A6%E8%84%91%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E9%99%A2.md)
-* [中山大学]()
+* [中山大学](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/blob/main/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6/%E4%B8%AD%E5%B1%B1%E7%94%9F%E7%A7%91%E9%99%A2.md)
 * [上海交通大学]_待上传
 * [中国科学技术大学]_待上传
 
