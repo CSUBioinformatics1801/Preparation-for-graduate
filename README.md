@@ -19,7 +19,7 @@
 
 * [北京生命科学研究所(NIBS)](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/tree/main/%E5%8C%97%E4%BA%AC%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80)
 * [北京科学与类脑研究中心(CIBR)](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/tree/main/CIBR)
-* [昌平实验室(PUCL)]_待上传
+* [昌平实验室(PUCL)](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/tree/main/%E6%98%8C%E5%B9%B3%E5%AE%9E%E9%AA%8C%E5%AE%A4)
 * [中科院生化交叉中心](https://github.com/CSUBioinformatics1801/Preparation-for-graduate/blob/main/%E4%B8%AD%E7%A7%91%E9%99%A2%E7%A0%94%E7%A9%B6%E6%89%80/%E4%B8%AD%E7%A7%91%E9%99%A2%E7%94%9F%E5%8C%96%E4%BA%A4%E5%8F%89%E4%B8%AD%E5%BF%83/%E4%B8%AD%E7%A7%91%E9%99%A2%E7%94%9F%E5%8C%96%E4%BA%A4%E5%8F%89%E4%B8%AD%E5%BF%83.md)
 * [基因组所]_待上传
 * [脑智卓越中心]_待上传
